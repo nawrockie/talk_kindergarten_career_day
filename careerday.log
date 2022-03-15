@@ -1,27 +1,26 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  15 MAR 2022 10:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/MacPorts 2019.50896_2) (preloaded format=pdflatex 2019.12.12)  15 MAR 2022 13:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **careerday.tex
 (./careerday.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/slides.cls
+LaTeX2e <2018-12-01>
+(/opt/local/share/texmf-texlive/tex/latex/base/slides.cls
 Document Class: slides 2016/03/29 v2.4a Standard LaTeX document class
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/slides.def
+(/opt/local/share/texmf-texlive/tex/latex/base/slides.def
 File: slides.def 2016/03/29 v2.4a SLiTeX definitions
  hacks, slides,
 \c@page=\count80
 
 picture, mods,
-\@smashboxa=\box26
-\@smashboxb=\box27
-\@smashboxc=\box28
+\@smashboxa=\box27
+\@smashboxb=\box28
+\@smashboxc=\box29
  output, init)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/sfonts.def
+(/opt/local/share/texmf-texlive/tex/latex/base/sfonts.def
 File: sfonts.def 1998/06/12 v2.2e Standard LaTeX slide font definitions
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ot1lcmss.fd
+(/opt/local/share/texmf-texlive/tex/latex/base/ot1lcmss.fd
 File: ot1lcmss.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 ))
 \c@minutes=\count81
@@ -45,21 +44,21 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `invisibl
 e'
 (Font)                  OMX/cmex/m/n --> OMX/lcmex/m/In on input line 375.
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/03/24 v5.7 Page Geometry
+(/opt/local/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+(/opt/local/share/texmf-texlive/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/opt/local/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count84
@@ -75,44 +74,44 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen109
 \Gm@dimlist=\toks15
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+(/opt/local/share/texmf-texlive/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+(/opt/local/share/texmf-texlive/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+(/opt/local/share/texmf-texlive/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/opt/local/share/texmf-texlive/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/opt/local/share/texmf-texlive/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen110
 \Gin@req@width=\dimen111
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+(/opt/local/share/texmf-texlive/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/opt/local/share/texmf-texlive/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
+(/opt/local/share/texmf-texlive/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks16
 \verbatim@line=\toks17
 \verbatim@in@stream=\read1
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/nopageno/nopageno.sty
+(/opt/local/share/texmf-texlive/tex/latex/nopageno/nopageno.sty
 Package: nopageno 1989/01/01 no page numbers (DPC)
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
+(/opt/local/share/texmf-texlive/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (./careerday.aux)
@@ -165,11 +164,11 @@ LaTeX Font Info:    ... okay on input line 25.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/opt/local/share/texmf-texlive/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count87
 \scratchdimen=\dimen112
-\scratchbox=\box29
+\scratchbox=\box30
 \nofMPsegments=\count88
 \nofMParguments=\count89
 \everyMPshowfont=\toks18
@@ -178,41 +177,36 @@ LaTeX Font Info:    ... okay on input line 25.
 \MPnumerator=\count91
 \makeMPintoPDFobject=\count92
 \everyMPtoPDFconversion=\toks19
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/opt/local/share/texmf-texlive/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/opt/local/share/texmf-texlive/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/opt/local/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+))))
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -226,54 +220,241 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/opt/local/share/texmf-texlive/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 <figs/nlm.jpeg, id=1, 1003.75pt x 592.2125pt>
 File: figs/nlm.jpeg Graphic file (type jpg)
 <use figs/nlm.jpeg>
-Package pdftex.def Info: figs/nlm.jpeg  used on input line 29.
-(pdftex.def)             Requested size: 979.96185pt x 578.15999pt.
-
-Overfull \hbox (196.37279pt too wide) in paragraph at lines 29--30
- [] 
- []
+Package pdftex.def Info: figs/nlm.jpeg  used on input line 32.
+(pdftex.def)             Requested size: 722.7pt x 426.41074pt.
 
 [1
 
-]
+{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figs/nlm.jpeg>]
+<figs/nlm-inside.jpeg, id=8, 803.0pt x 602.25pt>
+File: figs/nlm-inside.jpeg Graphic file (type jpg)
+<use figs/nlm-inside.jpeg>
+Package pdftex.def Info: figs/nlm-inside.jpeg  used on input line 37.
+(pdftex.def)             Requested size: 722.7pt x 542.05675pt.
 
-Class slides Warning: Slide 1 too long on input line 30.
+Overfull \vbox (7.16833pt too high) has occurred while \output is active []
 
+
+[2 <./figs/nlm-inside.jpeg>]
+<figs/instructions.jpeg, id=12, 1134.2375pt x 1304.875pt>
+File: figs/instructions.jpeg Graphic file (type jpg)
+<use figs/instructions.jpeg>
+Package pdftex.def Info: figs/instructions.jpeg  used on input line 42.
+(pdftex.def)             Requested size: 502.56207pt x 578.15999pt.
 
 Overfull \vbox (43.27158pt too high) has occurred while \output is active []
 
 
-[1 <./figs/nlm.jpeg>]
-<figs/genome-1kb-black.pdf, id=10, 361.47948pt x 289.0579pt>
+[3 <./figs/instructions.jpeg>]
+<figs/kids.jpeg, id=16, 199.947pt x 171.5208pt>
+File: figs/kids.jpeg Graphic file (type jpg)
+<use figs/kids.jpeg>
+Package pdftex.def Info: figs/kids.jpeg  used on input line 47.
+(pdftex.def)             Requested size: 722.7pt x 619.98164pt.
+
+Overfull \vbox (85.09323pt too high) has occurred while \output is active []
+
+
+[4 <./figs/kids.jpeg>]
+<figs/dogs.jpeg, id=20, 1284.8pt x 722.7pt>
+File: figs/dogs.jpeg Graphic file (type jpg)
+<use figs/dogs.jpeg>
+Package pdftex.def Info: figs/dogs.jpeg  used on input line 52.
+(pdftex.def)             Requested size: 722.7pt x 406.52878pt.
+ [5 <./figs/dogs.jpeg>]
+<figs/bigdog.jpeg, id=24, 501.875pt x 754.82pt>
+File: figs/bigdog.jpeg Graphic file (type jpg)
+<use figs/bigdog.jpeg>
+Package pdftex.def Info: figs/bigdog.jpeg  used on input line 57.
+(pdftex.def)             Requested size: 384.41557pt x 578.15999pt.
+
+Overfull \vbox (43.27158pt too high) has occurred while \output is active []
+
+
+[6 <./figs/bigdog.jpeg>]
+<figs/cheetah.jpeg, id=28, 1003.75pt x 501.875pt>
+File: figs/cheetah.jpeg Graphic file (type jpg)
+<use figs/cheetah.jpeg>
+Package pdftex.def Info: figs/cheetah.jpeg  used on input line 62.
+(pdftex.def)             Requested size: 722.7pt x 361.36504pt.
+ [7 <./figs/cheetah.jpeg>]
+<figs/shark.pdf, id=33, 614.295pt x 794.97pt>
+File: figs/shark.pdf Graphic file (type pdf)
+<use figs/shark.pdf>
+Package pdftex.def Info: figs/shark.pdf  used on input line 67.
+(pdftex.def)             Requested size: 446.77252pt x 578.15999pt.
+ [8 <./figs/shark.pdf>]
+<figs/mosquito.jpeg, id=41, 1505.625pt x 1003.75pt>
+File: figs/mosquito.jpeg Graphic file (type jpg)
+<use figs/mosquito.jpeg>
+Package pdftex.def Info: figs/mosquito.jpeg  used on input line 72.
+(pdftex.def)             Requested size: 722.7pt x 481.80984pt.
+
+[9 <./figs/mosquito.jpeg>]
+<figs/starfish.jpeg, id=45, 2055.68pt x 1541.76pt>
+File: figs/starfish.jpeg Graphic file (type jpg)
+<use figs/starfish.jpeg>
+Package pdftex.def Info: figs/starfish.jpeg  used on input line 77.
+(pdftex.def)             Requested size: 722.7pt x 542.02367pt.
+
+Overfull \vbox (7.13525pt too high) has occurred while \output is active []
+
+
+[10 <./figs/starfish.jpeg>]
+<figs/plant.jpeg, id=49, 2890.8pt x 1606.0pt>
+File: figs/plant.jpeg Graphic file (type jpg)
+<use figs/plant.jpeg>
+Package pdftex.def Info: figs/plant.jpeg  used on input line 82.
+(pdftex.def)             Requested size: 722.7pt x 401.49902pt.
+ [11 <./figs/plant.jpeg>]
+<figs/mushrooms.jpeg, id=53, 1405.25pt x 1003.75pt>
+File: figs/mushrooms.jpeg Graphic file (type jpg)
+<use figs/mushrooms.jpeg>
+Package pdftex.def Info: figs/mushrooms.jpeg  used on input line 87.
+(pdftex.def)             Requested size: 722.7pt x 516.22484pt.
+ [12 <./figs/mushrooms.jpeg>]
+<figs/dna.pdf, id=57, 614.295pt x 794.97pt>
+File: figs/dna.pdf Graphic file (type pdf)
+<use figs/dna.pdf>
+Package pdftex.def Info: figs/dna.pdf  used on input line 103.
+(pdftex.def)             Requested size: 390.92596pt x 505.89pt.
+ [13 <./figs/dna.pdf>]
+<figs/acgt.pdf, id=66, 288.77386pt x 265.80304pt>
+File: figs/acgt.pdf Graphic file (type pdf)
+<use figs/acgt.pdf>
+Package pdftex.def Info: figs/acgt.pdf  used on input line 108.
+(pdftex.def)             Requested size: 628.2455pt x 578.15999pt.
+
+Overfull \vbox (43.27158pt too high) has occurred while \output is active []
+
+
+[14 <./figs/acgt.pdf>]
+<figs/genome-1kb-black.pdf, id=78, 361.47948pt x 289.0579pt>
 File: figs/genome-1kb-black.pdf Graphic file (type pdf)
 <use figs/genome-1kb-black.pdf>
-Package pdftex.def Info: figs/genome-1kb-black.pdf  used on input line 34.
-(pdftex.def)             Requested size: 753.88936pt x 602.73152pt.
+Package pdftex.def Info: figs/genome-1kb-black.pdf  used on input line 112.
+(pdftex.def)             Requested size: 723.15575pt x 578.15999pt.
 
-Overfull \vbox (67.84311pt too high) has occurred while \output is active []
+Overfull \vbox (43.27158pt too high) has occurred while \output is active []
 
 
-[2 <./figs/genome-1kb-black.pdf>] (./careerday.aux) ) 
+[15 <./figs/genome-1kb-black.pdf>]
+<figs/genome-10kb.pdf, id=89, 1149.35403pt x 910.58093pt>
+File: figs/genome-10kb.pdf Graphic file (type pdf)
+<use figs/genome-10kb.pdf>
+Package pdftex.def Info: figs/genome-10kb.pdf  used on input line 116.
+(pdftex.def)             Requested size: 729.76157pt x 578.15999pt.
+
+Overfull \vbox (43.27158pt too high) has occurred while \output is active []
+
+
+[16 <./figs/genome-10kb.pdf>]
+<figs/scientist.jpeg, id=104, 1204.5pt x 803.0pt>
+File: figs/scientist.jpeg Graphic file (type jpg)
+<use figs/scientist.jpeg>
+Package pdftex.def Info: figs/scientist.jpeg  used on input line 125.
+(pdftex.def)             Requested size: 722.7pt x 481.81598pt.
+ [17 <./figs/scientist.jpeg>]
+<figs/scientist-computer.jpeg, id=108, 510.90875pt x 340.27126pt>
+File: figs/scientist-computer.jpeg Graphic file (type jpg)
+<use figs/scientist-computer.jpeg>
+Package pdftex.def Info: figs/scientist-computer.jpeg  used on input line 130.
+(pdftex.def)             Requested size: 722.7pt x 481.35574pt.
+ [18 <./figs/scientist-computer.jpeg>]
+File: figs/genome-1kb-black.pdf Graphic file (type pdf)
+<use figs/genome-1kb-black.pdf>
+Package pdftex.def Info: figs/genome-1kb-black.pdf  used on input line 134.
+(pdftex.def)             Requested size: 723.15575pt x 578.15999pt.
+
+Overfull \vbox (43.27158pt too high) has occurred while \output is active []
+
+
+[19]
+<figs/genome-red-1kb.pdf, id=116, 361.47948pt x 289.0579pt>
+File: figs/genome-red-1kb.pdf Graphic file (type pdf)
+<use figs/genome-red-1kb.pdf>
+Package pdftex.def Info: figs/genome-red-1kb.pdf  used on input line 138.
+(pdftex.def)             Requested size: 723.15575pt x 578.15999pt.
+
+Overfull \vbox (43.27158pt too high) has occurred while \output is active []
+
+
+[20 <./figs/genome-red-1kb.pdf>]
+<figs/computer.png, id=127, 2569.6pt x 1855.93375pt>
+File: figs/computer.png Graphic file (type png)
+<use figs/computer.png>
+Package pdftex.def Info: figs/computer.png  used on input line 142.
+(pdftex.def)             Requested size: 578.15999pt x 417.56708pt.
+ [21 <./figs/computer.png>]
+<figs/coding.jpg, id=133, 3553.275pt x 2053.6725pt>
+File: figs/coding.jpg Graphic file (type jpg)
+<use figs/coding.jpg>
+Package pdftex.def Info: figs/coding.jpg  used on input line 146.
+(pdftex.def)             Requested size: 578.15999pt x 334.14087pt.
+ [22 <./figs/coding.jpg>]
+<figs/minecraft.png, id=137, 823.075pt x 585.18625pt>
+File: figs/minecraft.png Graphic file (type png)
+<use figs/minecraft.png>
+Package pdftex.def Info: figs/minecraft.png  used on input line 150.
+(pdftex.def)             Requested size: 711.57332pt x 505.89pt.
+ [23 <./figs/minecraft.png>]
+<figs/server.pdf, id=141, 614.295pt x 794.97pt>
+File: figs/server.pdf Graphic file (type pdf)
+<use figs/server.pdf>
+Package pdftex.def Info: figs/server.pdf  used on input line 154.
+(pdftex.def)             Requested size: 446.77252pt x 578.15999pt.
+ [24 <./figs/server.pdf>]
+<figs/medicine.pdf, id=149, 614.295pt x 794.97pt>
+File: figs/medicine.pdf Graphic file (type pdf)
+<use figs/medicine.pdf>
+Package pdftex.def Info: figs/medicine.pdf  used on input line 158.
+(pdftex.def)             Requested size: 446.77252pt x 578.15999pt.
+ [25 <./figs/medicine.pdf>]
+<figs/recovery.jpeg, id=158, 127.677pt x 78.2925pt>
+File: figs/recovery.jpeg Graphic file (type jpg)
+<use figs/recovery.jpeg>
+Package pdftex.def Info: figs/recovery.jpeg  used on input line 162.
+(pdftex.def)             Requested size: 722.7pt x 443.34375pt.
+ [26 <./figs/recovery.jpeg>]
+<figs/vaccine.jpeg, id=162, 663.98062pt x 398.99063pt>
+File: figs/vaccine.jpeg Graphic file (type jpg)
+<use figs/vaccine.jpeg>
+Package pdftex.def Info: figs/vaccine.jpeg  used on input line 166.
+(pdftex.def)             Requested size: 722.7pt x 434.30061pt.
+ [27 <./figs/vaccine.jpeg>]
+<figs/kids-science.jpeg, id=166, 722.7pt x 481.8pt>
+File: figs/kids-science.jpeg Graphic file (type jpg)
+<use figs/kids-science.jpeg>
+Package pdftex.def Info: figs/kids-science.jpeg  used on input line 170.
+(pdftex.def)             Requested size: 722.7pt x 481.80615pt.
+ [28 <./figs/kids-science.jpeg>]
+<figs/thankyou.png, id=170, 2248.4pt x 1264.725pt>
+File: figs/thankyou.png Graphic file (type png)
+<use figs/thankyou.png>
+Package pdftex.def Info: figs/thankyou.png  used on input line 174.
+(pdftex.def)             Requested size: 722.7pt x 406.515pt.
+ [29 <./figs/thankyou.png>] (./careerday.aux) ) 
 Here is how much of TeX's memory you used:
- 2072 strings out of 492649
- 31150 string characters out of 6129622
- 97464 words of memory out of 5000000
- 5938 multiletter control sequences out of 15000+600000
- 3942 words of font info for 15 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 41i,5n,25p,276b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on careerday.pdf (3 pages, 714191 bytes).
+ 2205 strings out of 493731
+ 33758 string characters out of 6152119
+ 95772 words of memory out of 5000000
+ 5902 multiletter control sequences out of 15000+600000
+ 4244 words of font info for 16 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 41i,6n,25p,276b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+</opt/local/share/texmf-texlive/
+fonts/type1/public/amsfonts/latxfont/lcmss8.pfb>
+Output written on careerday.pdf (29 pages, 13220154 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 182 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
